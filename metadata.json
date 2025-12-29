@@ -1,0 +1,5 @@
+{
+  "name": "Course2Cal - 智能课表导出",
+  "description": "上传课表图片，AI自动识别课程信息，一键生成ICS文件导入手机日历。",
+  "requestFramePermissions": []
+}
